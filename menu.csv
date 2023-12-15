@@ -1,0 +1,13 @@
+restaurant,id,dish,price,description
+bella italia,1.1,pasta,$15 ,"Tomato-Basil Pizza with melting cheese, fresh herbs & luscious tomatoes."
+bella italia,1.2,pizza,$20 ,"Pasta made with garlic, cream, and Parmesan cheese, with mushrooms."
+bella italia,1.3,spaghetti,$22 ,A classic comfort food with delicious meatballs in a flavorful tomato sauce served over spaghetti.
+chopstix,2.1,noodles,$25 ,"Freshly boiled thin noodles served in a savory, spicy sauce topped with crispy pork and peanut flakes."
+chopstix,2.2,fried rice,$30 ,"Cooked rice, stir-fried with chopped vegetables and meat, seasoned with soy sauce and garlic."
+chopstix,2.3,dumplings,$15 ,"Tender wrappers stuffed with ground pork, mushrooms and seasonings, then deep fried to crispy golden brown."
+ginza,3.1,sushi,$20 ,"A small roll of rice that is combined with raw fish, seaweed, cucumber, and vegetables, amongst other ingredients."
+ginza,3.2,soup,$15 ,A traditional Japanese soup consisting of a dashi stock into which softened miso paste is mixed.
+ginza,3.3,ramen,$22 ,"A bowl of clear soup containing noodles, vegetables, and bits of meat."
+bistro live,4.1,fish and chips,$30 ,"A classic dish of the British Isles, consisting of battered and deep-fried fish, usually cod or haddock, and french fries."
+bistro live,4.2,mince pie,$13 ,"A delicately spiced, sumptuously light fruit filling encased in a buttery, crumbly crust."
+bistro live,4.3,steak,$40 ,Pan-Fried Garlic Butter Steak cooked to perfection with Crispy Potatoes and Asparagus.
